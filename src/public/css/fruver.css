@@ -1,0 +1,17 @@
+.item-product{
+    margin-bottom: .5rem;
+}
+.product-image{
+    display: flex;
+    justify-content: center;
+    margin: 2px;
+    padding-top: .9rem;
+    background-color: #F8F9F9;
+}
+.add-cart-product {
+    display: flex;
+    justify-content: center;
+}
+.add-cart-product a {
+    border-radius: 50px;
+}

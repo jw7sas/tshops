@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Justo y Bueno | Ejemplo</title>
+    <link rel="stylesheet" href="/tshops/src/public/bulma/bulma.min.css">
+    <link rel="stylesheet" href="/tshops/src/public/css/jb.css">
+</head>
+<body>
+    <div class="container">
+        <!-- navbar -->
+        <nav class="navbar is-transparent">
+            <div class="navbar-brand">
+              <a class="navbar-item" href="#">
+                <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
+              </a>
+              <div class="navbar-burger" data-target="navbarExampleTransparentExample">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+            </div>
+            <div id="navbarExampleTransparentExample" class="navbar-menu">
+              <div class="navbar-start">
+                <a class="navbar-item" href="/tshops/index.html">
+                  INDEX
+                </a>
+                <a class="navbar-item" href="#">Justo y Bueno</a>
+              </div>
+              <div class="navbar-end">
+                <div class="navbar-item">
+                  <div class="field is-grouped">
+                    <p class="control">
+                      <a class="bd-tw-button button" data-social-network="Twitter" data-social-action="tweet" data-social-target="#" target="_blank" href="#">
+                        <span>
+                          Productos
+                        </span>
+                      </a>
+                    </p>
+                    <p class="control">
+                      <a class="button is-primary" href="#">
+                        <span>Carrito</span>
+                      </a>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </nav>
+          <!-- hero -->
+          <section class="hero">
+            <div class="hero-body asgeek-container">
+              <h1 class="title asgeek-title">T. Justo y Bueno</h1>
+              <p class="subtitle">
+                Frutas y verduras a los mejores precios, gran calidad y variedad en un mismo lugar, puedes comprar tus productos de manera Online, rápida y efectiva, aprovecha ya! lo que tenemos preparado para tí.
+              </p>
+            </div>
+        </section>
+          <!-- products -->
+        <div id="list-products" class="products">
+        </div>
+        <!-- footer -->
+        <footer class="footer">
+          <div class="content has-text-centered">
+            <p>
+              <strong>Justo y Bueno</strong> por <a href="#">Scrapy Test</a>.
+            </p>
+          </div>
+        </footer>
+    </div>
+
+    <script src="/tshops/src/public/js/fetchData.js"></script>
+    <script src="/tshops/src/public/js/jb/main.js"></script>
+</body>
+</html>

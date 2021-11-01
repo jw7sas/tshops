@@ -1,0 +1,25 @@
+{
+  "name": "front-store",
+  "version": "1.0.0",
+  "description": "Datos para tiendas de prueba",
+  "main": "src/public/js/main.js",
+  "dependencies": {
+    "bulma": "^0.9.3",
+    "bootstrap": "^5.1.3",
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiendas",
+    "js",
+    "html"
+  ],
+  "author": "jrsaavedra1022",
+  "license": "MIT"
+}

@@ -1,0 +1,182 @@
+[
+    {
+        "title": "Manzana  verde uni",
+        "description": "Precio  x uni",
+        "price": 3050,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Manzana-Importada-Verde-300x188-1-300x313.jpg"
+    },
+    {
+        "title": "Manzana royal und",
+        "description": "Precio x und",
+        "price": 2850,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Manzana-Importada-Roja-300x188-300x313.jpg"
+    },
+    {
+        "title": "Tomate Chonto kl",
+        "description": "Valor kg",
+        "price": 3200,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2018/10/chonto-1-1.jpg"
+    },
+    {
+        "title": "Papa pastusa lavada kl",
+        "description": "Valor kg",
+        "price": 2250,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Papa-Pastusa-Lavada-300x188.jpg"
+    },
+    {
+        "title": "Naranja Tangelo kl",
+        "description": "Valor kg",
+        "price": 6400,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/naranja-tangelo-300x300-300x313.jpg"
+    },
+    {
+        "title": "Pera verde und",
+        "description": "Valor x und",
+        "price": 2450,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Pera-Importada-300x188-300x313.jpg"
+    },
+    {
+        "title": "Banano Criollo kl",
+        "description": "Valor kg",
+        "price": 3550,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/babano-criollo-300x300.jpg"
+    },
+    {
+        "title": "Zanahoria kl",
+        "description": "Valor kg",
+        "price": 4200,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Zanahoria-Paquete-300x188.jpg"
+    },
+    {
+        "title": "Papaya Maradol kl",
+        "description": "Valor kg",
+        "price": 4700,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Papaya-Maradol-300x188-300x313.jpg"
+    },
+    {
+        "title": "Pina Golden kl",
+        "description": "Valor kg",
+        "price": 4200,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Piña-Golden-300x188-300x313.jpg"
+    },
+    {
+        "title": "Aguacate Lorena x uni",
+        "description": "Valor por uni",
+        "price": 6300,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2018/08/Aguacate-Lorena4-300x290.jpg"
+    },
+    {
+        "title": "Platano Verde kl",
+        "description": "Valor kg",
+        "price": 5600,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2018/10/img-hYwxDsMgDEVvwxhHijoydejaG1QWuITIxhYQ0eOH9gId_vt6y3Ohqjk66Pv-44bf1tXtPw4xH1VyydpAqAYsUakEbLgElTkwxtIzMzYwTJQIK7i3h-eUx5Q76xlhjAF7FwZLBH-Kp7FihNBfWWakwW1bl8PSBQ-300x300.jpeg"
+    },
+    {
+        "title": "Limon Tahiti kl",
+        "description": "Valor kg",
+        "price": 7700,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Limon-Thaiti-300x188-300x313.jpg"
+    },
+    {
+        "title": "Cebolla cabezona blanca kl",
+        "description": "Valor kg",
+        "price": 2950,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2018/08/cebollas-blancas_-300x159.jpg"
+    },
+    {
+        "title": "Mango Tommy kl",
+        "description": "Valor kg",
+        "price": 13200,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/descarga-6-300x313.jpg"
+    },
+    {
+        "title": "Espinaca und",
+        "description": "Valor x und de PQTE",
+        "price": 3200,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Espinaca-Paquete-300x188.jpg"
+    },
+    {
+        "title": "Champi?on Ent",
+        "description": "Valor BJ 250 gr",
+        "price": 6100,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Champiñon-Entero-Bandeja-500-g-300x188.jpg"
+    },
+    {
+        "title": "Platano Maduro kl",
+        "description": "Valor kg",
+        "price": 5450,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Plátano-Maduro-Unidad-300x188.jpg"
+    },
+    {
+        "title": "Cilantro und",
+        "description": "Paquete x und",
+        "price": 1800,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Cilantro-Picado-Estuche-300x188.jpg"
+    },
+    {
+        "title": "Fresa Primera est x 500 gr",
+        "description": "Extuche x 500 gr",
+        "price": 6500,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Fresa-de-primera-300x188.jpg"
+    },
+    {
+        "title": "Aguacate Hass kl",
+        "description": "Valor kg",
+        "price": 9800,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Aguacate-Hass-300x188.jpg"
+    },
+    {
+        "title": "Pimenton kl",
+        "description": "Valor kg",
+        "price": 5300,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Pimenton-Unidad-300x188.jpg"
+    },
+    {
+        "title": "Mandarina Arrayana kl",
+        "description": "Valor kg",
+        "price": 6400,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Mandarina-Arrayana-300x188-300x313.jpg"
+    },
+    {
+        "title": "Pepino Cohombro kl",
+        "description": "Valor x kg",
+        "price": 3000,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/descarga-e1538049838390.jpg"
+    },
+    {
+        "title": "Arandanos est",
+        "description": "Valor EST 120 gr",
+        "price": 8050,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Sin-título-1-300x300.jpg"
+    },
+    {
+        "title": "Granadilla kl",
+        "description": "Valor kg",
+        "price": 9550,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Granadilla-300x188.jpg"
+    },
+    {
+        "title": "Banano Uraba kl",
+        "description": "Valor kg",
+        "price": 2800,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/babano-uraba-300x300.jpg"
+    },
+    {
+        "title": "Brocoli kl",
+        "description": "Valor kg",
+        "price": 5800,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2018/10/broccoli-nutrition-facts-copia-300x200.jpg"
+    },
+    {
+        "title": "Melon Caribeam KL",
+        "description": "Valor uni",
+        "price": 4900,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Melón-Caribeam-Unidad-300x188-300x313.jpg"
+    },
+    {
+        "title": "Apio und",
+        "description": "N/A",
+        "price": 3700,
+        "image_url": "https://surtifruver.com/wp-content/uploads/2017/04/Apio-Unidad--300x188.jpg"
+    }
+]
